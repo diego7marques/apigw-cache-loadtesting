@@ -1,5 +1,5 @@
-# apigw-cache-loadtesting
-Is the Amazon API Gateway cache feature a game changer?
+# Is the Amazon API Gateway cache feature a game changer?
+
 📄 The files available in this repository are from the [Is the Amazon API Gateway cache feature a game changer?](https://containscloud.com/2024/09/02/is-the-amazon-api-gateway-cache-feature-a-game-changer/) blog post of  [contains(cloud)](https://containscloud.com) ☁️
 
 ![architecture](https://containscloud.com/wp-content/uploads/2024/09/apigw-cache-1.png)
